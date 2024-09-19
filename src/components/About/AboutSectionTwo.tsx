@@ -47,8 +47,9 @@ const AboutSectionTwo = () => {
                   Payment System Integration
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  DDIN's secure payment processing integrates smoothly into your business workflow, offering real-time transactions and in-depth analytics.
-                </p>
+  DDIN&#39;s secure payment processing integrates smoothly into your business workflow, offering real-time transactions and in-depth analytics.
+</p>
+
               </div>
             </div>
           </div>
