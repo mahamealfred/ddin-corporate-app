@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Innovative Payment Solutions for Corporations"
+                paragraph="DDIN Group Ltd offers advanced, secure payment systems designed for businesses, enabling seamless and real-time transactions. Our solutions empower companies to streamline their payment operations, ensuring efficiency, security, and transparency."
                 mb="44px"
               />
 
@@ -35,15 +35,15 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Secure payment processing" />
+                    <List text="Real-time transactions" />
+                    <List text="Business-focused features" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="API integration" />
+                    <List text="Detailed documentation" />
+                    <List text="User-friendly interface" />
                   </div>
                 </div>
               </div>
